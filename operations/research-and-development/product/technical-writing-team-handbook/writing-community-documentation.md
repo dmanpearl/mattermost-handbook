@@ -9,7 +9,7 @@ A critical part of this development is documentation which ranges from feature d
 
 We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted.
 
-During the review process the editorial team also provides feedback on style elements to bring the submission in line with the [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide).
+During the review process the editorial team also provides feedback on style elements to bring the submission in line with the [Documentation Style Guide](https://handbook.mattermost.com/operations/research-and-development/product/technical-writing-team-handbook/documentation-style-guide).
 
 Here are some guidelines:
 

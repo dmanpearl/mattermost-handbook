@@ -62,7 +62,7 @@ Once complete, submit your Pull Request \(PR\). Ensure that you assign appropria
 
 ## Style Guide and UI writing guides
 
-Our [Documentation Style Guide] is a guide to writing Mattermost product documentation and includes guidelines around punctuation, casing, and how to format files. We also have [a guide for writing UI copy](https://handbook.mattermost.com/operations/research-and-development/product/development-process/user-interface-text-guidelines) which includes tip, best practices, and examples.
+Our [Documentation Style Guide](https://handbook.mattermost.com/operations/research-and-development/product/technical-writing-team-handbook/documentation-style-guide) is a guide to writing Mattermost product documentation and includes guidelines around punctuation, casing, and how to format files. We also have [a guide for writing UI copy](https://handbook.mattermost.com/operations/research-and-development/product/development-process/user-interface-text-guidelines) which includes tip, best practices, and examples.
 
 ## i18n contributions
 
